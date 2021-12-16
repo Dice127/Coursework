@@ -1,0 +1,36 @@
+C:\Users\admin\source\repos\CourseworkVar6\Data\obj\Debug\Data.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\CourseworkVar6\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CourseworkVar6\Data\bin\Debug\Data.dll
+C:\Users\admin\source\repos\CourseworkVar6\Data\bin\Debug\Data.pdb
+C:\Users\admin\source\repos\CourseworkVar6\Data\bin\Debug\Entities.dll
+C:\Users\admin\source\repos\CourseworkVar6\Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\source\repos\CourseworkVar6\Data\bin\Debug\Entities.pdb
+C:\Users\admin\source\repos\CourseworkVar6\Data\bin\Debug\Entities.dll.config
+C:\Users\admin\source\repos\CourseworkVar6\Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\source\repos\CourseworkVar6\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\admin\source\repos\CourseworkVar6\Data\obj\Debug\Data.dll
+C:\Users\admin\source\repos\CourseworkVar6\Data\obj\Debug\Data.pdb
+C:\Users\admin\source\repos\CourseworkVar6 — копия\Data\bin\Debug\Data.dll
+C:\Users\admin\source\repos\CourseworkVar6 — копия\Data\bin\Debug\Data.pdb
+C:\Users\admin\source\repos\CourseworkVar6 — копия\Data\bin\Debug\Entities.dll
+C:\Users\admin\source\repos\CourseworkVar6 — копия\Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\source\repos\CourseworkVar6 — копия\Data\bin\Debug\Entities.pdb
+C:\Users\admin\source\repos\CourseworkVar6 — копия\Data\bin\Debug\Entities.dll.config
+C:\Users\admin\source\repos\CourseworkVar6 — копия\Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\source\repos\CourseworkVar6 — копия\Data\obj\Debug\Data.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\CourseworkVar6 — копия\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CourseworkVar6 — копия\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\admin\source\repos\CourseworkVar6 — копия\Data\obj\Debug\Data.dll
+C:\Users\admin\source\repos\CourseworkVar6 — копия\Data\obj\Debug\Data.pdb
+C:\Users\admin\source\repos\Coursework\Data\bin\Debug\Data.dll
+C:\Users\admin\source\repos\Coursework\Data\bin\Debug\Data.pdb
+C:\Users\admin\source\repos\Coursework\Data\bin\Debug\Entities.dll
+C:\Users\admin\source\repos\Coursework\Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\source\repos\Coursework\Data\bin\Debug\Entities.pdb
+C:\Users\admin\source\repos\Coursework\Data\bin\Debug\Entities.dll.config
+C:\Users\admin\source\repos\Coursework\Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\source\repos\Coursework\Data\obj\Debug\Data.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Coursework\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Coursework\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\admin\source\repos\Coursework\Data\obj\Debug\Data.dll
+C:\Users\admin\source\repos\Coursework\Data\obj\Debug\Data.pdb

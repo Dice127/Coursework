@@ -1,0 +1,18 @@
+C:\Users\admin\source\repos\CourseworkVar6\Domain\bin\Debug\Domain.dll
+C:\Users\admin\source\repos\CourseworkVar6\Domain\bin\Debug\Domain.pdb
+C:\Users\admin\source\repos\CourseworkVar6\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CourseworkVar6\Domain\obj\Debug\Domain.dll
+C:\Users\admin\source\repos\CourseworkVar6\Domain\obj\Debug\Domain.pdb
+C:\Users\admin\source\repos\CourseworkVar6\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\CourseworkVar6 — копия\Domain\bin\Debug\Domain.dll
+C:\Users\admin\source\repos\CourseworkVar6 — копия\Domain\bin\Debug\Domain.pdb
+C:\Users\admin\source\repos\CourseworkVar6 — копия\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\CourseworkVar6 — копия\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CourseworkVar6 — копия\Domain\obj\Debug\Domain.dll
+C:\Users\admin\source\repos\CourseworkVar6 — копия\Domain\obj\Debug\Domain.pdb
+C:\Users\admin\source\repos\Coursework\Domain\bin\Debug\Domain.dll
+C:\Users\admin\source\repos\Coursework\Domain\bin\Debug\Domain.pdb
+C:\Users\admin\source\repos\Coursework\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Coursework\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Coursework\Domain\obj\Debug\Domain.dll
+C:\Users\admin\source\repos\Coursework\Domain\obj\Debug\Domain.pdb

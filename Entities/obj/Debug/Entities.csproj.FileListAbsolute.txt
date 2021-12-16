@@ -1,0 +1,20 @@
+C:\Users\admin\source\repos\CourseworkVar6\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CourseworkVar6\Entities\bin\Debug\Entities.dll.config
+C:\Users\admin\source\repos\CourseworkVar6\Entities\bin\Debug\Entities.dll
+C:\Users\admin\source\repos\CourseworkVar6\Entities\bin\Debug\Entities.pdb
+C:\Users\admin\source\repos\CourseworkVar6\Entities\obj\Debug\Entities.dll
+C:\Users\admin\source\repos\CourseworkVar6\Entities\obj\Debug\Entities.pdb
+C:\Users\admin\source\repos\CourseworkVar6\Entities\obj\Debug\Entities.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\CourseworkVar6 — копия\Entities\bin\Debug\Entities.dll.config
+C:\Users\admin\source\repos\CourseworkVar6 — копия\Entities\bin\Debug\Entities.dll
+C:\Users\admin\source\repos\CourseworkVar6 — копия\Entities\bin\Debug\Entities.pdb
+C:\Users\admin\source\repos\CourseworkVar6 — копия\Entities\obj\Debug\Entities.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\CourseworkVar6 — копия\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CourseworkVar6 — копия\Entities\obj\Debug\Entities.dll
+C:\Users\admin\source\repos\CourseworkVar6 — копия\Entities\obj\Debug\Entities.pdb
+C:\Users\admin\source\repos\Coursework\Entities\bin\Debug\Entities.dll.config
+C:\Users\admin\source\repos\Coursework\Entities\bin\Debug\Entities.dll
+C:\Users\admin\source\repos\Coursework\Entities\bin\Debug\Entities.pdb
+C:\Users\admin\source\repos\Coursework\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Coursework\Entities\obj\Debug\Entities.dll
+C:\Users\admin\source\repos\Coursework\Entities\obj\Debug\Entities.pdb

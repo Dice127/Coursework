@@ -1,0 +1,60 @@
+C:\Users\admin\source\repos\CourseworkVar6\Services\obj\Debug\Services.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\CourseworkVar6\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CourseworkVar6\Services\bin\Debug\Services.dll
+C:\Users\admin\source\repos\CourseworkVar6\Services\bin\Debug\Services.pdb
+C:\Users\admin\source\repos\CourseworkVar6\Services\bin\Debug\Data.dll
+C:\Users\admin\source\repos\CourseworkVar6\Services\bin\Debug\Domain.dll
+C:\Users\admin\source\repos\CourseworkVar6\Services\bin\Debug\Entities.dll
+C:\Users\admin\source\repos\CourseworkVar6\Services\bin\Debug\Mappers.dll
+C:\Users\admin\source\repos\CourseworkVar6\Services\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\source\repos\CourseworkVar6\Services\bin\Debug\Models.dll
+C:\Users\admin\source\repos\CourseworkVar6\Services\bin\Debug\Data.pdb
+C:\Users\admin\source\repos\CourseworkVar6\Services\bin\Debug\Domain.pdb
+C:\Users\admin\source\repos\CourseworkVar6\Services\bin\Debug\Entities.pdb
+C:\Users\admin\source\repos\CourseworkVar6\Services\bin\Debug\Entities.dll.config
+C:\Users\admin\source\repos\CourseworkVar6\Services\bin\Debug\Mappers.pdb
+C:\Users\admin\source\repos\CourseworkVar6\Services\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\source\repos\CourseworkVar6\Services\bin\Debug\Models.pdb
+C:\Users\admin\source\repos\CourseworkVar6\Services\obj\Debug\Services.csproj.CopyComplete
+C:\Users\admin\source\repos\CourseworkVar6\Services\obj\Debug\Services.dll
+C:\Users\admin\source\repos\CourseworkVar6\Services\obj\Debug\Services.pdb
+C:\Users\admin\source\repos\CourseworkVar6 — копия\Services\bin\Debug\Services.dll
+C:\Users\admin\source\repos\CourseworkVar6 — копия\Services\bin\Debug\Services.pdb
+C:\Users\admin\source\repos\CourseworkVar6 — копия\Services\bin\Debug\Data.dll
+C:\Users\admin\source\repos\CourseworkVar6 — копия\Services\bin\Debug\Domain.dll
+C:\Users\admin\source\repos\CourseworkVar6 — копия\Services\bin\Debug\Entities.dll
+C:\Users\admin\source\repos\CourseworkVar6 — копия\Services\bin\Debug\Mappers.dll
+C:\Users\admin\source\repos\CourseworkVar6 — копия\Services\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\source\repos\CourseworkVar6 — копия\Services\bin\Debug\Models.dll
+C:\Users\admin\source\repos\CourseworkVar6 — копия\Services\bin\Debug\Data.pdb
+C:\Users\admin\source\repos\CourseworkVar6 — копия\Services\bin\Debug\Domain.pdb
+C:\Users\admin\source\repos\CourseworkVar6 — копия\Services\bin\Debug\Entities.pdb
+C:\Users\admin\source\repos\CourseworkVar6 — копия\Services\bin\Debug\Entities.dll.config
+C:\Users\admin\source\repos\CourseworkVar6 — копия\Services\bin\Debug\Mappers.pdb
+C:\Users\admin\source\repos\CourseworkVar6 — копия\Services\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\source\repos\CourseworkVar6 — копия\Services\bin\Debug\Models.pdb
+C:\Users\admin\source\repos\CourseworkVar6 — копия\Services\obj\Debug\Services.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\CourseworkVar6 — копия\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CourseworkVar6 — копия\Services\obj\Debug\Services.csproj.CopyComplete
+C:\Users\admin\source\repos\CourseworkVar6 — копия\Services\obj\Debug\Services.dll
+C:\Users\admin\source\repos\CourseworkVar6 — копия\Services\obj\Debug\Services.pdb
+C:\Users\admin\source\repos\Coursework\Services\bin\Debug\Services.dll
+C:\Users\admin\source\repos\Coursework\Services\bin\Debug\Services.pdb
+C:\Users\admin\source\repos\Coursework\Services\bin\Debug\Data.dll
+C:\Users\admin\source\repos\Coursework\Services\bin\Debug\Domain.dll
+C:\Users\admin\source\repos\Coursework\Services\bin\Debug\Entities.dll
+C:\Users\admin\source\repos\Coursework\Services\bin\Debug\Mappers.dll
+C:\Users\admin\source\repos\Coursework\Services\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\source\repos\Coursework\Services\bin\Debug\Models.dll
+C:\Users\admin\source\repos\Coursework\Services\bin\Debug\Data.pdb
+C:\Users\admin\source\repos\Coursework\Services\bin\Debug\Domain.pdb
+C:\Users\admin\source\repos\Coursework\Services\bin\Debug\Entities.pdb
+C:\Users\admin\source\repos\Coursework\Services\bin\Debug\Entities.dll.config
+C:\Users\admin\source\repos\Coursework\Services\bin\Debug\Mappers.pdb
+C:\Users\admin\source\repos\Coursework\Services\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\source\repos\Coursework\Services\bin\Debug\Models.pdb
+C:\Users\admin\source\repos\Coursework\Services\obj\Debug\Services.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Coursework\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Coursework\Services\obj\Debug\Services.csproj.CopyComplete
+C:\Users\admin\source\repos\Coursework\Services\obj\Debug\Services.dll
+C:\Users\admin\source\repos\Coursework\Services\obj\Debug\Services.pdb

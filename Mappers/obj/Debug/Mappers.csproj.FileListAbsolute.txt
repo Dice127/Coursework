@@ -1,0 +1,42 @@
+C:\Users\admin\source\repos\CourseworkVar6\Mappers\obj\Debug\Mappers.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\CourseworkVar6\Mappers\obj\Debug\Mappers.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CourseworkVar6\Mappers\bin\Debug\Mappers.dll
+C:\Users\admin\source\repos\CourseworkVar6\Mappers\bin\Debug\Mappers.pdb
+C:\Users\admin\source\repos\CourseworkVar6\Mappers\bin\Debug\Domain.dll
+C:\Users\admin\source\repos\CourseworkVar6\Mappers\bin\Debug\Entities.dll
+C:\Users\admin\source\repos\CourseworkVar6\Mappers\bin\Debug\Models.dll
+C:\Users\admin\source\repos\CourseworkVar6\Mappers\bin\Debug\Domain.pdb
+C:\Users\admin\source\repos\CourseworkVar6\Mappers\bin\Debug\Entities.pdb
+C:\Users\admin\source\repos\CourseworkVar6\Mappers\bin\Debug\Entities.dll.config
+C:\Users\admin\source\repos\CourseworkVar6\Mappers\bin\Debug\Models.pdb
+C:\Users\admin\source\repos\CourseworkVar6\Mappers\obj\Debug\Mappers.csproj.CopyComplete
+C:\Users\admin\source\repos\CourseworkVar6\Mappers\obj\Debug\Mappers.dll
+C:\Users\admin\source\repos\CourseworkVar6\Mappers\obj\Debug\Mappers.pdb
+C:\Users\admin\source\repos\CourseworkVar6 — копия\Mappers\bin\Debug\Mappers.dll
+C:\Users\admin\source\repos\CourseworkVar6 — копия\Mappers\bin\Debug\Mappers.pdb
+C:\Users\admin\source\repos\CourseworkVar6 — копия\Mappers\bin\Debug\Domain.dll
+C:\Users\admin\source\repos\CourseworkVar6 — копия\Mappers\bin\Debug\Entities.dll
+C:\Users\admin\source\repos\CourseworkVar6 — копия\Mappers\bin\Debug\Models.dll
+C:\Users\admin\source\repos\CourseworkVar6 — копия\Mappers\bin\Debug\Domain.pdb
+C:\Users\admin\source\repos\CourseworkVar6 — копия\Mappers\bin\Debug\Entities.pdb
+C:\Users\admin\source\repos\CourseworkVar6 — копия\Mappers\bin\Debug\Entities.dll.config
+C:\Users\admin\source\repos\CourseworkVar6 — копия\Mappers\bin\Debug\Models.pdb
+C:\Users\admin\source\repos\CourseworkVar6 — копия\Mappers\obj\Debug\Mappers.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\CourseworkVar6 — копия\Mappers\obj\Debug\Mappers.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CourseworkVar6 — копия\Mappers\obj\Debug\Mappers.csproj.CopyComplete
+C:\Users\admin\source\repos\CourseworkVar6 — копия\Mappers\obj\Debug\Mappers.dll
+C:\Users\admin\source\repos\CourseworkVar6 — копия\Mappers\obj\Debug\Mappers.pdb
+C:\Users\admin\source\repos\Coursework\Mappers\bin\Debug\Mappers.dll
+C:\Users\admin\source\repos\Coursework\Mappers\bin\Debug\Mappers.pdb
+C:\Users\admin\source\repos\Coursework\Mappers\bin\Debug\Domain.dll
+C:\Users\admin\source\repos\Coursework\Mappers\bin\Debug\Entities.dll
+C:\Users\admin\source\repos\Coursework\Mappers\bin\Debug\Models.dll
+C:\Users\admin\source\repos\Coursework\Mappers\bin\Debug\Domain.pdb
+C:\Users\admin\source\repos\Coursework\Mappers\bin\Debug\Entities.pdb
+C:\Users\admin\source\repos\Coursework\Mappers\bin\Debug\Entities.dll.config
+C:\Users\admin\source\repos\Coursework\Mappers\bin\Debug\Models.pdb
+C:\Users\admin\source\repos\Coursework\Mappers\obj\Debug\Mappers.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Coursework\Mappers\obj\Debug\Mappers.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Coursework\Mappers\obj\Debug\Mappers.csproj.CopyComplete
+C:\Users\admin\source\repos\Coursework\Mappers\obj\Debug\Mappers.dll
+C:\Users\admin\source\repos\Coursework\Mappers\obj\Debug\Mappers.pdb
